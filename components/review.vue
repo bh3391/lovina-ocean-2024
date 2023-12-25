@@ -5,7 +5,7 @@
             <div class="text-center my-4 font-bold">Google Rating Score <br><span class="p-1 rounded-full text-2xl  text-orange-600">4,9<br>Excellent</span></div>
         </div>
        
-        <div class="flex flex-wrap flex-col gap-2 lg:grid lg:grid-cols-3">
+        <div class="flex flex-wrap flex-col gap-2 md:grid md:grid-cols-2 lg:grid-cols-3">
             <div v-for="(item, index) in reviews" :key="index"
                 class="p-2  w-full  bg-white border border-1 rounded-lg hover:shadow-lg text-xs hover:scale-105 transition ">
                 <div class="p-1 mb-1">

@@ -4,10 +4,10 @@
             <h2 class="sm:text-3xl text-2xl font-bold text-center title-font text-gray-800 mb-4">Our Tour Packages</h2>
 
         </div>
-        <div class="flex flex-wrap sm:grid sm:grid-cols-4 p-2  gap-2 max-w-8-xl sm:mx-auto sm:mb-2 -mx-2">
+        <div class="grid grid-cols-1 justify-center items-center  md:grid-cols-2 p-2 lg:grid-cols-4 gap-2 max-w-8-xl sm:mx-auto sm:mb-2 -mx-2">
             <div v-for="(item, index) in packages" :key="index"
-                class="p-2  w-full  bg-white border border-1 rounded-lg hover:shadow-lg text-xs hover:scale-105 transition ">
-                <NuxtImg class="rounded-xl" :src="item.image" :alt="item.title" height="196" width="294" format="webp"/>
+                class="p-2  mx-auto w-72  bg-white border border-1 rounded-lg hover:shadow-lg text-xs hover:scale-105 transition ">
+                <NuxtImg class="rounded-xl mx-auto" :src="item.image" :alt="item.title" height="196" width="294" format="webp"/>
                 <div class="p-1">
                     <NuxtLink :href="item.link" :alt="item.title"><h3 class="text-lg font-bold hover:underline">{{ item.title }}</h3></NuxtLink>
                     <p :class="item.status">Sharing Boat : IDR {{ item.sharing }}K/person</p>
