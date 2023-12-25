@@ -1,1 +1,0 @@
-import{_ as t,o,c as s,a as e}from"./entry.34e4ed2f.js";const c={},n={href:"https://wa.link/sxfsad"},_=e("div",{class:"hover:scale-110 transition flex flex-center justify-center"},[e("div",{class:"p-3 bg-sky-800 my-2 text-md font-bold text-white rounded-xl"},"Book Now")],-1),a=[_];function r(d,i){return o(),s("a",n,a)}const l=t(c,[["render",r]]);export{l as _};

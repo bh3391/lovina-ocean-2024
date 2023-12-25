@@ -2,7 +2,7 @@
     <div class="max-w-7xl mx-auto bg-slate-100 my-5 p-2 rounded-lg">
         <div class="flex flex-row">
             <h2 class="text-3xl w-4/5 ml-4 text-left my-4 font-bold "> What our customer say about us ?</h2><hr>
-            <div class="text-center my-4 font-bold">Google Rating Score <br><span class="p-1 rounded-full text-2xl  text-orange-500">4,9<br>Excellent</span></div>
+            <div class="text-center my-4 font-bold">Google Rating Score <br><span class="p-1 rounded-full text-2xl  text-orange-600">4,9<br>Excellent</span></div>
         </div>
        
         <div class="flex flex-wrap flex-col gap-2 lg:grid lg:grid-cols-3">

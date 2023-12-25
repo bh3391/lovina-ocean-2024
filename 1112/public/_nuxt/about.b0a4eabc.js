@@ -1,1 +1,0 @@
-import{_ as a}from"./advantage.vue.f57d9ab3.js";import{_ as n,r,c,b as e,F as _,a as o,o as i}from"./entry.34e4ed2f.js";import"./booknow.fc8f98cc.js";const d={},l=o("div",{class:"divider"},"Profile",-1),m=o("div",{class:"divider"},"Our Advantages",-1);function f(p,v){const s=r("Profile"),t=a;return i(),c(_,null,[l,e(s),m,e(t)],64)}const x=n(d,[["render",f]]);export{x as default};

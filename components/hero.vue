@@ -3,16 +3,16 @@
         <div class="max-w-5xl mx-auto">
             <nuxt-img src="/dolphin1.webp" format="webp" width="1024" height="577" alt="lovina ocean tour"
                 class="hidden md:block md:mt-10 md:rounded-xl"></nuxt-img>
-            <nuxt-img src="/dolphin1.webp" format="webp" width="320" height="180" alt="lovina ocean tour"
+            <nuxt-img src="/dolphin1.webp" format="webp" width="375" height="180" alt="lovina ocean tour"
                 class=" md:hidden md:mt-10 md:rounded-xl"></nuxt-img>
         </div>
     </div>
     <div
-        class="hero min-h-screen rounded-xl mt-5 bg-[conic-gradient(at_top,_var(--tw-gradient-stops))] from-sky-300 via-sky-500 to-blue-500">
+        class=" min-h-auto p-4 rounded-xl mt-5 bg-[conic-gradient(at_top,_var(--tw-gradient-stops))] from-sky-300 via-sky-500 to-blue-500">
 
-        <div class="hero-content text-center text-gray-800 ">
+        <div class=" text-center text-gray-800 ">
             <div class="">
-                <h1 style="font-family: 'Cardo';" class="mb-5 text-2xl md:text-3xl fade-in font-bold">Dive into the magic of
+                <h1  class="mb-5 text-2xl md:text-3xl font-bold">Dive into the magic of
                     the
                     ocean!
                     🌊 Join us on an unforgettable Dolphin Tour and witness these playful creatures in their natural

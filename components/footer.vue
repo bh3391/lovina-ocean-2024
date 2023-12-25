@@ -24,9 +24,9 @@
                 </a>
                 <a href="https://www.tripadvisor.com/Attraction_Review-g1599559-d21042518-Reviews-Lovina_Ocean_Dolphin_Tour-Lovina_Beach_Buleleng_District_Buleleng_Regency_Bali.html"
                     alt="Tripadvisor Link">
-                    <div class="p-2 w-64 bg-green-50 hover:bg-white rounded-sm h-82 hover:scale-105 shadow transition">
+                    <div class="p-2 w-64 bg-white hover:bg-white rounded-sm h-82 hover:scale-105 shadow transition">
                         <div class=" border-2 h-65 p-1 text-gray-900 border-green-400">
-                            <NuxtImg src="/Tripadvisor2.png" format="webp" width="90px" height="56px" alt="Tripadvisor Logo" />
+                            <NuxtImg src="/Tripadvisor2.png" format="webp" width="100px" height="56px" alt="Tripadvisor Logo" />
                             <h3 class="text-xl hover:underline">Lovina Ocean Dolphin Tour</h3 >
                             <p class="font-light text-xs mt-1">Tripadvisor Traveler Rating</p>
                             <div class="flex flex-row gap-1">

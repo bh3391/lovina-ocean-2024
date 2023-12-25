@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://lovinaoceantours.com/sitemap.xml

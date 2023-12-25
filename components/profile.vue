@@ -14,16 +14,17 @@
                         
                         </div>
                         </div>
-                        <div class="flex flex-col p-2 items-center text-justify justify-center">
+                        <div class="flex flex-col p-2 md:p-4 items-center text-justify justify-center">
                             
-                            
-                            <p class="text-md text-lg ">Introducing Captain Kadek!!<br>
+                            <h2 class="text-lg "> About Us!</h2><br>
+                            <p class="text-md  ">Introducing Captain Kadek!!<br>
 
                                 Lovina Ocean Tour is a Professional Dolphin Tour Package Service Provider @ Lovina Beach,
                                 Singaraja-Bali,
                                 Captain Kadek has experience providing Dolphin Tour services since 1988.
                                 <br>We are committed to provide the best service to our customers. Apart from being a Dolphin
                                 tour service provider, we also provide Snorkeling and Diving services at Lovina Beach</p>
+                                <Booknow/>
                         </div>
                     </div>
                     
