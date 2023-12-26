@@ -1,7 +1,7 @@
 <template>
     <section class="text-gray-800 bg-blue-50 body-font">
         <div class="container px-5 py-24 mx-auto">
-            <div class="flex flex-col text-center w-full mb-20">
+            <div class="flex flex-col sm:grid sm:grid-cols-4 text-center w-full mb-20">
 
                 <h2 class="sm:text-3xl text-2xl font-bold title-font text-gray-800">Terms and Condition</h2>
             </div>

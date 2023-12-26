@@ -1,9 +1,9 @@
 <template>
     <div class="container">
         <div class="max-w-5xl mx-auto">
-            <nuxt-img src="/dolphin1.webp" format="webp" width="1024" height="577" alt="lovina ocean tour"
+            <nuxt-img src="/dolphin-watching-tour.png" format="webp" width="1024" height="577" alt="lovina ocean tour"
                 class="hidden md:block md:mt-10 md:rounded-xl"></nuxt-img>
-            <nuxt-img src="/dolphin1.webp" format="webp" width="375" height="180" alt="lovina ocean tour"
+            <nuxt-img src="/dolphin-watching-tour.png" format="webp" width="425" height="275" alt="lovina ocean tour"
                 class=" md:hidden md:mt-10 md:rounded-xl"></nuxt-img>
         </div>
     </div>

@@ -1,12 +1,12 @@
 <template>
     <footer class="footer p-10 font-bold text-white bg-gray-800">
         <div>
-            <span class="footer-title text-white">Lovina Ocean Tours</span>
-            <NuxtLink to="/about" class="link link-hover">About</NuxtLink>
-            <NuxtLink to="/contact" class="link link-hover">Contact</NuxtLink>
-            <NuxtLink to="/packages" class="link link-hover">Packages</NuxtLink>
-            <NuxtLink to="/lovina-dolphin-watching-tour" class="link link-hover">Lovina Dolphin Watching</NuxtLink>
-            <NuxtLink to="/lovina-dolphin-and-snorkeling" class="link link-hover">Lovina Dolphin Watching and Snorkeling
+            <span class="footer-title text-white  w-12">Lovina Ocean Tours</span>
+            <NuxtLink to="/about" class="link link-hover w-12">About</NuxtLink>
+            <NuxtLink to="/contact" class="link link-hover w-12">Contact</NuxtLink>
+            <NuxtLink to="/packages" class="link link-hover w-12">Packages</NuxtLink>
+            <NuxtLink to="/lovina-dolphin-watching-tour" class="link link-hover w-12">Lovina Dolphin Watching</NuxtLink>
+            <NuxtLink to="/lovina-dolphin-and-snorkeling" class="link link-hover w-12">Lovina Dolphin Watching and Snorkeling
             </NuxtLink>
             <NuxtLink to="/lovina-dolphin-and-swimming-with-dolphin" class="link link-hover">Lovina Dolphin Watching and
                 Swimming With Dolphin</NuxtLink>

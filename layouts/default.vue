@@ -9,9 +9,7 @@
     <Footer />
 </template>
 <style>
-h1 {
-    font-family: 'Corda';
-}
+
 
 ;
 /* Define the initial state of the element */

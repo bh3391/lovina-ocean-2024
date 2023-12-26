@@ -1,15 +1,19 @@
 <template>
-    <div class="container rounded-lg p-1 lg:p-5 mx-auto bg-[radial-gradient(ellipse_at_bottom_right,_var(--tw-gradient-stops))] from-blue-100 via-blue-200 to-blue-300">
+    <div class="rounded-lg lg:p-5 mx-auto bg-[radial-gradient(ellipse_at_bottom_right,_var(--tw-gradient-stops))] from-blue-100 via-blue-200 to-blue-300">
         <div class="text-center lg:mb-20">
             <h2 class="sm:text-3xl text-2xl font-bold text-center title-font text-gray-800 mb-4">Our Tour Packages</h2>
 
         </div>
-        <div class="grid grid-cols-1 justify-center items-center  md:grid-cols-2 p-2 lg:grid-cols-4 gap-2 max-w-8-xl sm:mx-auto sm:mb-2 -mx-2">
+        <div class="flex flex-col sm:grid sm:grid-cols-1 justify-center items-center  md:grid-cols-2   lg:grid-cols-4 gap-1 max-w-8-xl sm:mx-auto sm:mb-2 ">
             <div v-for="(item, index) in packages" :key="index"
-                class="p-2  mx-auto w-72  bg-white border border-1 rounded-lg hover:shadow-lg text-xs hover:scale-105 transition ">
-                <NuxtImg class="rounded-xl mx-auto" :src="item.image" :alt="item.title" height="196" width="294" format="webp"/>
-                <div class="p-1">
-                    <NuxtLink :href="item.link" :alt="item.title"><h3 class="text-lg font-bold hover:underline">{{ item.title }}</h3></NuxtLink>
+                class="sm:p-2  mx-auto  w-screen p-1 sm:w-80 md:w-72    bg-white border border-1 rounded-lg hover:shadow-lg text-sm  ">
+
+
+            
+                
+                <div class=" max-sm p-1">
+                    <NuxtImg class=" mx-auto" :src="item.image" :alt="item.title"  format="webp"/>
+                    <NuxtLink :href="item.link" :alt="item.title"><h3 class="text-lg bg-sky-500 text-white px-1 font-bold hover:underline">{{ item.title }}</h3></NuxtLink>
                     <p :class="item.status">Sharing Boat : IDR {{ item.sharing }}K/person</p>
                     <p :class="item.status">Private Boat : IDR {{ item.private }}K/person</p>
                     <p>Include : {{ item.include }}</p>
