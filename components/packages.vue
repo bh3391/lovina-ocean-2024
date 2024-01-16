@@ -13,7 +13,7 @@
                 
                 <div class=" max-sm p-1">
                     <NuxtImg class=" mx-auto" :src="item.image" :alt="item.title"  format="webp"/>
-                    <NuxtLink :href="item.link" :alt="item.title"><h3 class="text-lg bg-sky-500 text-white px-1 font-bold hover:underline">{{ item.title }}</h3></NuxtLink>
+                    <NuxtLink :href="item.link" :alt="item.title"><h3 class="text-lg mb-1 bg-sky-600 text-white px-1 font-bold hover:underline">{{ item.title }}</h3></NuxtLink>
                     <p :class="item.status">Sharing Boat : IDR {{ item.sharing }}K/person</p>
                     <p :class="item.status">Private Boat : IDR {{ item.private }}K/person</p>
                     <p>Include : {{ item.include }}</p>

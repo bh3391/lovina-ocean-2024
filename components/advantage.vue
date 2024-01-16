@@ -53,8 +53,8 @@ const dataAdvatages = ref([
         p: 'Your comfort is our priority! Enjoy the convenience of on-site facilities with clean and accessible toilets, restrooms, and a cozy coffee shop. Whether youre here for an event, a day of exploration, or simply passing by, take a break with the assurance of well-maintained facilities. Enhance your experience with a refreshing cup of coffee, and rest easy knowing that all your needs are taken care of at our location. Your satisfaction is our commitment!'
     },
     {
-        h2: 'Free Pick up for Hotel near Lovina Area.',
-        p: 'Elevate your stay in Lovina with our complimentary pick-up service for hotels in the vicinity! 🚗✨ Enjoy the convenience of a hassle-free journey as we ensure youre comfortably transported to your destination. Whether youre joining us for a dolphin tour, snorkeling adventure, or any other experience, our complimentary pick-up service adds an extra layer of convenience to your visit. Sit back, relax, and let us take care of the details.'
+        h2: 'Free Pick up by Boat or Motorbike for Hotel near Lovina Area.',
+        p: 'Elevate your stay in Lovina with our complimentary pick-up service for hotels in the vicinity! Enjoy the convenience of a hassle-free journey as we ensure youre comfortably transported to your destination. Whether youre joining us for a dolphin tour, snorkeling adventure, or any other experience, our complimentary pick-up service by boat or motorbike adds an extra layer of convenience to your visit. Sit back, relax, and let us take care of the details.'
     },
     // Add more user objects as needed
 ]);

@@ -3,7 +3,7 @@
     <Schema />
     <NuxtLoadingIndicator />
     <Header />
-    <div style="font-family: 'Poppins';" class="container text-gray-800 max-w-7xl bg-white mx-auto">
+    <div  class="container text-gray-800 max-w-7xl bg-white mx-auto">
         <slot />
     </div>
     <Footer />

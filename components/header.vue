@@ -1,5 +1,5 @@
 <template>
-    <div style="font-family: 'Lato';" class="navbar bg-slate-100 ">
+    <div  class="navbar bg-slate-100 ">
         <div class="navbar-start">
             <div class="dropdown">
                 <label tabindex="0" class="btn btn-ghost ">

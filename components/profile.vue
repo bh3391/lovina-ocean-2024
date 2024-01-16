@@ -4,21 +4,22 @@
             <div class="lg:w-4/6 mx-auto">
 
 
-                <div class=" flex  flex-col sm:flex-row text-center justify-center sm:pr-8 sm:py-8">
+                <div class=" flex  flex-col text-center justify-center sm:pr-8 sm:py-8">
+                    <h2 class="text-xl font-bold "> About Us!</h2><br>
                     <div class="w-full inline-flex items-center  text-gray-400">
-                        <div>
+                        <div class="mx-auto">
                             <nuxt-img class="rounded hidden sm:block" loading="lazy" width="425" height="275" format="webp"
-                                src="/kadeksuara.png" alt="Foto Pak Kadek" />
+                                src="/kadek.jpeg" alt="Foto Pak Kadek" />
                             <nuxt-img class="rounded sm:hidden" loading="lazy" width="425" height="275" format="webp"
-                                src="/kadeksuara.png" alt="Foto Pak Kadek" />
+                                src="/kadek.jpeg" alt="Foto Pak Kadek" />
                             <h2 class="text-lg  text-gray-800 mt-4 ">Kadek Suara</h2>
                             
                         </div>
                     </div>
                     <div class="flex flex-col p-2 md:p-4 items-center text-justify justify-center">
 
-                        <h2 class="text-lg font-bold "> About Us!</h2><br>
-                        <p class="text-md  ">Introducing Captain Kadek!!<br>
+                       
+                        <p class="text-sm md:text-md  ">Introducing Captain Kadek!!<br>
 
                             Lovina Ocean Tour is a Professional Dolphin Tour Package Service Provider @ Lovina Beach,
                             Singaraja-Bali,

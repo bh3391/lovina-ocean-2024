@@ -23,7 +23,7 @@ export default defineNuxtConfig({
   image: {
     // Options
   },
-  ssr: true,
+  ssr: false,
   
     extends: [
     'nuxt-seo-kit'
